@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/rurygaddafi/twitter/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/rurygaddafi/twitter/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/DevSupport/RCTPackagerClientResponder.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/rurygaddafi/twitter/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
